@@ -45,15 +45,15 @@ Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducin
 #### GTK/QT
 #### Thunar
 
-*** Firefox
-*** Waybar
-*** bat
-*** Hyprland/lock
-*** MPV
-*** Zathura
-*** Thunderbird
+### Firefox
+### Waybar
+### bat
+### Hyprland/lock
+### MPV
+### Zathura
+### Thunderbird
 
-** Roadmap to finish 
+## Roadmap to finish 
 - (Neo)vim
 - Termux (nix-on-droid)
 
