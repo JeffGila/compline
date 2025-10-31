@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compline Palette Visualization</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: #1a1d21;
+            font-family: 'Fira Code', 'SF Mono', 'Cascadia Code', monospace;
+            padding: 2rem;
+            color: #f0efeb;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            font-weight: 300;
+            letter-spacing: 0.05em;
+        }
+        
+        .palette-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 3rem;
+        }
+        
+        .color-block {
+            aspect-ratio: 2/1;
+            border-radius: 4px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .color-block:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+        }
+        
+        .color-name {
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .color-hex {
+            font-size: 0.8rem;
+            opacity: 0.9;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .section {
+            margin-bottom: 2rem;
+        }
+        
+        .section-title {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            opacity: 0.7;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Compline Palette</h1>
+        
+        <div class="section">
+            <h2 class="section-title">Background Layers</h2>
+            <div class="palette-grid">
+                <div class="color-block" style="background: #1a1d21; color: #f0efeb;">
+                    <div class="color-name">bg</div>
+                    <div class="color-hex">#1a1d21</div>
+                </div>
+                <div class="color-block" style="background: #22262b; color: #f0efeb;">
+                    <div class="color-name">bg-alt</div>
+                    <div class="color-hex">#22262b</div>
+                </div>
+                <div class="color-block" style="background: #0f1114; color: #f0efeb;">
+                    <div class="color-name">base0</div>
+                    <div class="color-hex">#0f1114</div>
+                </div>
+                <div class="color-block" style="background: #171a1e; color: #f0efeb;">
+                    <div class="color-name">base1</div>
+                    <div class="color-hex">#171a1e</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">Base Tones</h2>
+            <div class="palette-grid">
+                <div class="color-block" style="background: #1f2228; color: #f0efeb;">
+                    <div class="color-name">base2</div>
+                    <div class="color-hex">#1f2228</div>
+                </div>
+                <div class="color-block" style="background: #282c34; color: #f0efeb;">
+                    <div class="color-name">base3</div>
+                    <div class="color-hex">#282c34</div>
+                </div>
+                <div class="color-block" style="background: #3d424a; color: #f0efeb;">
+                    <div class="color-name">base4</div>
+                    <div class="color-hex">#3d424a</div>
+                </div>
+                <div class="color-block" style="background: #515761; color: #f0efeb;">
+                    <div class="color-name">base5</div>
+                    <div class="color-hex">#515761</div>
+                </div>
+                <div class="color-block" style="background: #676d77; color: #f0efeb;">
+                    <div class="color-name">base6</div>
+                    <div class="color-hex">#676d77</div>
+                </div>
+                <div class="color-block" style="background: #8b919a; color: #0f1114;">
+                    <div class="color-name">base7</div>
+                    <div class="color-hex">#8b919a</div>
+                </div>
+                <div class="color-block" style="background: #e0dcd4; color: #0f1114;">
+                    <div class="color-name">base8</div>
+                    <div class="color-hex">#e0dcd4</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">Foreground</h2>
+            <div class="palette-grid">
+                <div class="color-block" style="background: #f0efeb; color: #0f1114;">
+                    <div class="color-name">fg</div>
+                    <div class="color-hex">#f0efeb</div>
+                </div>
+                <div class="color-block" style="background: #ccc4b4; color: #0f1114;">
+                    <div class="color-name">fg-alt</div>
+                    <div class="color-hex">#ccc4b4</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">Semantic Colors</h2>
+            <div class="palette-grid">
+                <div class="color-block" style="background: #CDACAC; color: #0f1114;">
+                    <div class="color-name">red</div>
+                    <div class="color-hex">#CDACAC</div>
+                </div>
+                <div class="color-block" style="background: #ccc4b4; color: #0f1114;">
+                    <div class="color-name">orange</div>
+                    <div class="color-hex">#ccc4b4</div>
+                </div>
+                <div class="color-block" style="background: #b8c4b8; color: #0f1114;">
+                    <div class="color-name">green</div>
+                    <div class="color-hex">#b8c4b8</div>
+                </div>
+                <div class="color-block" style="background: #d4ccb4; color: #0f1114;">
+                    <div class="color-name">yellow</div>
+                    <div class="color-hex">#d4ccb4</div>
+                </div>
+                <div class="color-block" style="background: #b4bcc4; color: #0f1114;">
+                    <div class="color-name">blue</div>
+                    <div class="color-hex">#b4bcc4</div>
+                </div>
+                <div class="color-block" style="background: #b4c0c8; color: #0f1114;">
+                    <div class="color-name">cyan</div>
+                    <div class="color-hex">#b4c0c8</div>
+                </div>
+                <div class="color-block" style="background: #b4c4bc; color: #0f1114;">
+                    <div class="color-name">teal</div>
+                    <div class="color-hex">#b4c4bc</div>
+                </div>
+                <div class="color-block" style="background: #98a4ac; color: #0f1114;">
+                    <div class="color-name">dark-cyan</div>
+                    <div class="color-hex">#98a4ac</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.querySelectorAll('.color-block').forEach(block => {
+            block.addEventListener('click', () => {
+                const hex = block.querySelector('.color-hex').textContent;
+                navigator.clipboard.writeText(hex).then(() => {
+                    const originalText = block.querySelector('.color-hex').textContent;
+                    block.querySelector('.color-hex').textContent = 'Copied!';
+                    setTimeout(() => {
+                        block.querySelector('.color-hex').textContent = originalText;
+                    }, 1000);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
