@@ -25,7 +25,7 @@ Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducin
  - base8: #e0dcd4 
  - fg: #f0efeb 
  - fg-alt: #ccc4b4 
- - 
+  
  - red: #CDACAC 
  - orange: #ccc4b4 
  - green: #b8c4b8 
