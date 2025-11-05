@@ -5,6 +5,7 @@ From the Latin "completorium" - completion.  The final prayer of the Catholic Li
 Compline is meant to be the embodiment of this - taking minimalism to a monastic extent, where colors are expressions of the same tone, a suggestion rather than something that shouts to the user.
 
 ![Compline palate](https://revere.b-cdn.net/compline/2025-10-31-131317_grim.png)
+![Lauds palate](https://revere.b-cdn.net/compline/2025-11-04-191227_grim.png)
 
 ## The Motivation
 For many years, I have used Nord as my default colorscheme for all my work and day to day
