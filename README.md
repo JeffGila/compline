@@ -52,8 +52,7 @@ Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducin
 - [MPV](https://github.com/jblais493/compline/tree/main/mpv) 
 - [Zathura](https://github.com/jblais493/compline/tree/main/zathura) 
 - [Thunderbird](https://github.com/jblais493/compline/tree/main/thunderbird) 
+- [(Neo)vim](https://github.com/jblais493/compline/tree/main/nvim)
 
 ## Roadmap to finish 
-- (Neo)vim
 - Termux (nix-on-droid)
-
