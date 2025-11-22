@@ -17,54 +17,54 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
 
 ## Palate:
 ### Compline:
-| Palette   | Hex     | RGB         | HSL          | Colors                                                                          |
-|-----------|---------|-------------|--------------|---------------------------------------------------------------------------------|
-| bg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![Background](https://complinetheme.com/images/compline/background.png)         |
-| bg-alt    | #22262b | 34 38 43    | 213° 12% 15% | ![Background-alt](https://complinetheme.com/images/compline/background-alt.png) |
-| base0     | #0f1114 | 15 17 20    | 216° 14% 7%  | ![base0](https://complinetheme.com/images/compline/base0.png)                   |
-| base1     | #171a1e | 23 26 30    | 214° 13% 10% | ![base1](https://complinetheme.com/images/compline/base1.png)                   |
-| base2     | #1f2228 | 31 34 40    | 220° 13% 14% | ![base2](https://complinetheme.com/images/compline/base2.png)                   |
-| base3     | #282c34 | 40 44 52    | 220° 13% 18% | ![base3](https://complinetheme.com/images/compline/base3.png)                   |
-| base4     | #3d424a | 61 66 74    | 217° 10% 27% | ![base4](https://complinetheme.com/images/compline/base4.png)                   |
-| base5     | #515761 | 81 87 97    | 217° 9% 35%  | ![base5](https://complinetheme.com/images/compline/base5.png)                   |
-| base6     | #676d77 | 103 109 119 | 217° 7% 44%  | ![base6](https://complinetheme.com/images/compline/base6.png)                   |
-| base7     | #8b919a | 139 145 154 | 216° 7% 58%  | ![base7](https://complinetheme.com/images/compline/base7.png)                   |
-| base8     | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![base8](https://complinetheme.com/images/compline/base8.png)                   |
-| fg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![fg](https://complinetheme.com/images/compline/fg.png)                         |
-| fg-alt    | #ccc4b4 | 204 196 180 | 40° 19% 75%  | ![fg-alt](https://complinetheme.com/images/compline/fg-alt.png)                 |
-| red       | #cdacac | 205 172 172 | 0° 25% 74%   | ![red](https://complinetheme.com/images/compline/red.png)                       |
-| orange    | #ccc4b4 | 204 196 180 | 40° 19% 75%  | ![orange](https://complinetheme.com/images/compline/orange.png)                 |
-| green     | #b8c4b8 | 184 196 184 | 120° 9% 75%  | ![green](https://complinetheme.com/images/compline/green.png)                   |
-| blue      | #b4bcc4 | 180 188 196 | 210° 12% 74% | ![blue](https://complinetheme.com/images/compline/blue.png)                     |
-| cyan      | #b4c0c8 | 180 192 200 | 204° 15% 75% | ![cyan](https://complinetheme.com/images/compline/cyan.png)                     |
-| yellow    | #d4ccb4 | 212 204 180 | 45° 27% 77%  | ![yellow](https://complinetheme.com/images/compline/yellow.png)                 |
-| teal      | #b4c4bc | 180 196 188 | 150° 12% 74% | ![teal](https://complinetheme.com/images/compline/teal.png)                     |
-| dark-cyan | #98a4ac | 152 164 172 | 204° 11% 64% | ![dark-cyan](https://complinetheme.com/images/compline/dark-cyan.png)           |
+| Palette   | Hex     | RGB         | HSL          | Colors                                                          |
+|-----------|---------|-------------|--------------|-----------------------------------------------------------------|
+| bg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![Background](https://revere.b-cdn.net/compline/bg.png)         |
+| bg-alt    | #22262b | 34 38 43    | 213° 12% 15% | ![Background-alt](https://revere.b-cdn.net/compline/bg-alt.png) |
+| base0     | #0f1114 | 15 17 20    | 216° 14% 7%  | ![base0](https://revere.b-cdn.net/compline/base0.png)           |
+| base1     | #171a1e | 23 26 30    | 214° 13% 10% | ![base1](https://revere.b-cdn.net/compline/base1.png)           |
+| base2     | #1f2228 | 31 34 40    | 220° 13% 14% | ![base2](https://revere.b-cdn.net/compline/base2.png)           |
+| base3     | #282c34 | 40 44 52    | 220° 13% 18% | ![base3](https://revere.b-cdn.net/compline/base3.png)           |
+| base4     | #3d424a | 61 66 74    | 217° 10% 27% | ![base4](https://revere.b-cdn.net/compline/base4.png)           |
+| base5     | #515761 | 81 87 97    | 217° 9% 35%  | ![base5](https://revere.b-cdn.net/compline/base5.png)           |
+| base6     | #676d77 | 103 109 119 | 217° 7% 44%  | ![base6](https://revere.b-cdn.net/compline/base6.png)           |
+| base7     | #8b919a | 139 145 154 | 216° 7% 58%  | ![base7](https://revere.b-cdn.net/compline/base7.png)           |
+| base8     | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![base8](https://revere.b-cdn.net/compline/base8.png)           |
+| fg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![fg](https://revere.b-cdn.net/compline/fg.png)                 |
+| fg-alt    | #ccc4b4 | 204 196 180 | 40° 19% 75%  | ![fg-alt](https://revere.b-cdn.net/compline/fg-alt.png)         |
+| red       | #cdacac | 205 172 172 | 0° 25% 74%   | ![red](https://revere.b-cdn.net/compline/red.png)               |
+| orange    | #ccc4b4 | 204 196 180 | 40° 19% 75%  | ![orange](https://revere.b-cdn.net/compline/orange.png)         |
+| green     | #b8c4b8 | 184 196 184 | 120° 9% 75%  | ![green](https://revere.b-cdn.net/compline/green.png)           |
+| blue      | #b4bcc4 | 180 188 196 | 210° 12% 74% | ![blue](https://revere.b-cdn.net/compline/blue.png)             |
+| cyan      | #b4c0c8 | 180 192 200 | 204° 15% 75% | ![cyan](https://revere.b-cdn.net/compline/cyan.png)             |
+| yellow    | #d4ccb4 | 212 204 180 | 45° 27% 77%  | ![yellow](https://revere.b-cdn.net/compline/yellow.png)         |
+| teal      | #b4c4bc | 180 196 188 | 150° 12% 74% | ![teal](https://revere.b-cdn.net/compline/teal.png)             |
+| dark-cyan | #98a4ac | 152 164 172 | 204° 11% 64% | ![dark-cyan](https://revere.b-cdn.net/compline/dark-cyan.png)   |
 
 ### Lauds:
-| Palette   | Hex     | RGB         | HSL          | Colors                                                                       |
-|-----------|---------|-------------|--------------|------------------------------------------------------------------------------|
-| bg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![Background](https://complinetheme.com/images/lauds/background.png)         |
-| bg-alt    | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![Background-alt](https://complinetheme.com/images/lauds/background-alt.png) |
-| base0     | #f5f4f2 | 245 244 242 | 40° 13% 95%  | ![base0](https://complinetheme.com/images/lauds/base0.png)                   |
-| base1     | #efeeed | 239 238 237 | 30° 5% 93%   | ![base1](https://complinetheme.com/images/lauds/base1.png)                   |
-| base2     | #e5e3e0 | 229 227 224 | 36° 8% 89%   | ![base2](https://complinetheme.com/images/lauds/base2.png)                   |
-| base3     | #d8d6d3 | 216 214 211 | 36° 6% 84%   | ![base3](https://complinetheme.com/images/lauds/base3.png)                   |
-| base4     | #b8b5b0 | 184 181 176 | 37° 5% 71%   | ![base4](https://complinetheme.com/images/lauds/base4.png)                   |
-| base5     | #9a9791 | 154 151 145 | 40° 4% 59%   | ![base5](https://complinetheme.com/images/lauds/base5.png)                   |
-| base6     | #7d7a75 | 125 122 117 | 37° 3% 47%   | ![base6](https://complinetheme.com/images/lauds/base6.png)                   |
-| base7     | #5f5c58 | 95 92 88    | 34° 4% 36%   | ![base7](https://complinetheme.com/images/lauds/base7.png)                   |
-| base8     | #2d2a27 | 45 42 39    | 30° 7% 16%   | ![base8](https://complinetheme.com/images/lauds/base8.png)                   |
-| fg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![fg](https://complinetheme.com/images/lauds/fg.png)                         |
-| fg-alt    | #4a4d51 | 74 77 81    | 214° 5% 30%  | ![fg-alt](https://complinetheme.com/images/lauds/fg-alt.png)                 |
-| red       | #8b6666 | 139 102 102 | 0° 15% 47%   | ![red](https://complinetheme.com/images/lauds/red.png)                       |
-| orange    | #7a6d5a | 122 109 90  | 36° 15% 42%  | ![orange](https://complinetheme.com/images/lauds/orange.png)                 |
-| green     | #5a6b5a | 90 107 90   | 120° 9% 39%  | ![green](https://complinetheme.com/images/lauds/green.png)                   |
-| blue      | #5a6b7a | 90 107 122  | 208° 15% 42% | ![blue](https://complinetheme.com/images/lauds/blue.png)                     |
-| cyan      | #64757d | 100 117 125 | 199° 11% 44% | ![cyan](https://complinetheme.com/images/lauds/cyan.png)                     |
-| yellow    | #8b7e52 | 139 126 82  | 46° 26% 43%  | ![yellow](https://complinetheme.com/images/lauds/yellow.png)                 |
-| teal      | #4d6b6b | 77 107 107  | 180° 16% 36% | ![teal](https://complinetheme.com/images/lauds/teal.png)                     |
-| dark-cyan | #546470 | 84 100 112  | 206° 14% 38% | ![dark-cyan](https://complinetheme.com/images/lauds/dark-cyan.png)           |
+| Palette   | Hex     | RGB         | HSL          | Colors                                                               |
+|-----------|---------|-------------|--------------|----------------------------------------------------------------------|
+| bg        | #f0efeb | 240 239 235 | 48° 14% 93%  | ![Background](https://revere.b-cdn.net/lauds/background.png)         |
+| bg-alt    | #e0dcd4 | 224 220 212 | 40° 16% 85%  | ![Background-alt](https://revere.b-cdn.net/lauds/background-alt.png) |
+| base0     | #f5f4f2 | 245 244 242 | 40° 13% 95%  | ![base0](https://revere.b-cdn.net/lauds/base0.png)                   |
+| base1     | #efeeed | 239 238 237 | 30° 5% 93%   | ![base1](https://revere.b-cdn.net/lauds/base1.png)                   |
+| base2     | #e5e3e0 | 229 227 224 | 36° 8% 89%   | ![base2](https://revere.b-cdn.net/lauds/base2.png)                   |
+| base3     | #d8d6d3 | 216 214 211 | 36° 6% 84%   | ![base3](https://revere.b-cdn.net/lauds/base3.png)                   |
+| base4     | #b8b5b0 | 184 181 176 | 37° 5% 71%   | ![base4](https://revere.b-cdn.net/lauds/base4.png)                   |
+| base5     | #9a9791 | 154 151 145 | 40° 4% 59%   | ![base5](https://revere.b-cdn.net/lauds/base5.png)                   |
+| base6     | #7d7a75 | 125 122 117 | 37° 3% 47%   | ![base6](https://revere.b-cdn.net/lauds/base6.png)                   |
+| base7     | #5f5c58 | 95 92 88    | 34° 4% 36%   | ![base7](https://revere.b-cdn.net/lauds/base7.png)                   |
+| base8     | #2d2a27 | 45 42 39    | 30° 7% 16%   | ![base8](https://revere.b-cdn.net/lauds/base8.png)                   |
+| fg        | #1a1d21 | 26 29 33    | 214° 12% 12% | ![fg](https://revere.b-cdn.net/lauds/fg.png)                         |
+| fg-alt    | #4a4d51 | 74 77 81    | 214° 5% 30%  | ![fg-alt](https://revere.b-cdn.net/lauds/fg-alt.png)                 |
+| red       | #8b6666 | 139 102 102 | 0° 15% 47%   | ![red](https://revere.b-cdn.net/lauds/red.png)                       |
+| orange    | #7a6d5a | 122 109 90  | 36° 15% 42%  | ![orange](https://revere.b-cdn.net/lauds/orange.png)                 |
+| green     | #5a6b5a | 90 107 90   | 120° 9% 39%  | ![green](https://revere.b-cdn.net/lauds/green.png)                   |
+| blue      | #5a6b7a | 90 107 122  | 208° 15% 42% | ![blue](https://revere.b-cdn.net/lauds/blue.png)                     |
+| cyan      | #64757d | 100 117 125 | 199° 11% 44% | ![cyan](https://revere.b-cdn.net/lauds/cyan.png)                     |
+| yellow    | #8b7e52 | 139 126 82  | 46° 26% 43%  | ![yellow](https://revere.b-cdn.net/lauds/yellow.png)                 |
+| teal      | #4d6b6b | 77 107 107  | 180° 16% 36% | ![teal](https://revere.b-cdn.net/lauds/teal.png)                     |
+| dark-cyan | #546470 | 84 100 112  | 206° 14% 38% | ![dark-cyan](https://revere.b-cdn.net/lauds/dark-cyan.png)           |
     
 
 ## Finished Themes:
