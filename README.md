@@ -88,3 +88,4 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
 
 ## Special thanks:
 [Matthew-K310](https://github.com/Matthew-K310) - for porting compline/lauds to nvim
+[piero-vic](https://github.com/piero-vic) - for alacritty theming
