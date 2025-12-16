@@ -3,12 +3,12 @@
 A port of Compline for IceWM
 
 ## Installation
-```git clone https://github.com/joshuablais/compline.git```
+```git clone https://codeberg.org/xiiixvv/compline-ice.git```
 
-Place ```compline/icewm/compline``` into
+Place folder into
 ```~/.icewm/themes/```
 or
-```/usr/share/icewm/themes/```
+```/usr/shae/icewm/themes/```
 
 Apply the theme through the settings menu.
 
